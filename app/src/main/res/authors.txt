@@ -107,6 +107,8 @@ surface_asphalt.jpg            Public Domain     https://commons.wikimedia.org/w
 surface_cobblestone.jpg        CC-BY-SA 3.0      https://commons.wikimedia.org/wiki/File:Bad_Radkersburg_Murgasse_IMG_0583.jpg
 surface_compacted.jpg          CC-BY 2.0         https://www.flickr.com/photos/ian_munroe/3633361321
 surface_concrete.jpg           CC-BY-SA 4.0      https://commons.wikimedia.org/wiki/File:2014-08-29_15_33_15_View_across_Stuyvesant_Avenue_in_Ewing,_New_Jersey,_with_concrete_pavement_likely_dating_to_the_1950s.JPG
+surface_concrete_lanes.jpg     CC-BY-SA 2.0      https://wiki.openstreetmap.org/wiki/File:Concrete_lanes.png
+surface_concrete_plates.jpg    CC-BY-SA 4.0      https://commons.wikimedia.org/wiki/File:Feldweg_an_der_Karl-_Marx-Stra%C3%9Fe_(Wilthen)_(3).JPG
 surface_dirt.jpg               CC-BY 3.0         https://commons.wikimedia.org/wiki/File:Dirt_road_towards_the_south_and_Ndara_Borehole_in_the_Tsavo_East_National_Park,_Kenya.jpg
 surface_grass_paver.jpg        Public Domain     https://commons.wikimedia.org/wiki/File:Rasenpflasterstein_1.jpg
 surface_pebblestones.jpg       CC-BY-SA 2.0      https://wiki.openstreetmap.org/wiki/File:Dscf1829-800.jpg

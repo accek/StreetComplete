@@ -6,6 +6,8 @@ import de.westnordost.streetcomplete.view.Item
 enum class Surface(val item:Item<String>) {
     ASPHALT       (Item("asphalt",        R.drawable.surface_asphalt,       R.string.quest_surface_value_asphalt)),
     CONCRETE      (Item("concrete",       R.drawable.surface_concrete,      R.string.quest_surface_value_concrete)),
+    CONCRETE_PLATES (Item("concrete:plates", R.drawable.surface_concrete_plates, R.string.quest_surface_value_concrete_plates)),
+    CONCRETE_LANES (Item("concrete:lanes", R.drawable.surface_concrete_lanes, R.string.quest_surface_value_concrete_lanes)),
     FINE_GRAVEL   (Item("fine_gravel",    R.drawable.surface_fine_gravel,   R.string.quest_surface_value_fine_gravel)),
     PAVING_STONES (Item("paving_stones",  R.drawable.surface_paving_stones, R.string.quest_surface_value_paving_stones)),
     COMPACTED     (Item("compacted",      R.drawable.surface_compacted,     R.string.quest_surface_value_compacted)),
